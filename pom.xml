@@ -44,4 +44,11 @@
   		<version>3.0.1</version>
   	</dependency>
   </dependencies>
+  <distributionManagement>
+    <snapshotRepository>
+      <id>maven-snapshots</id>
+      <url>http://18.223.100.137:8081/repository/maven-snapshots/</url>
+    </snapshotRepository>
+ </distributionManagement>
+</project>
 </project>
